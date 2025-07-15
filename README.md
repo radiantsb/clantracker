@@ -3,6 +3,11 @@ edit line 6 by putting your clan name in the quotation marks
 edit line 7 by putting your roblox userid (not username) after 'userid =' (but before the #)
 optionally edit line 8, if set to true it will create 2 text files that track your score and the clan score over time
 
+to set score goal:
+click button in bottom right
+type score (can use m or k at the end)
+press enter
+
 if you want a .exe file:
 make sure you have python installed
 open a command prompt window and run: pip install pyinstaller
